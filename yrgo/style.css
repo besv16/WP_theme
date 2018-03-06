@@ -1,0 +1,12 @@
+/**
+ * Theme Name: Yrgo
+ * Theme URI: https://yrgo.github.io
+ * Description: The WordPress theme for my wp-site.
+ * Version: 1.0.0
+ * Author: Beatrice Svensson
+ * Author URI: https://yrgo.github.io
+ */
+
+ body {
+   background-color: skyblue;
+ }
